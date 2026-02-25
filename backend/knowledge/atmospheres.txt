@@ -1,0 +1,19 @@
+Exoplanet Atmospheres and Spectroscopy
+
+Transmission Spectroscopy: When a planet transits its host star, starlight filters through the planet's atmosphere, and certain wavelengths are absorbed by atmospheric gases. By comparing the transit depth at different wavelengths, astronomers can identify the chemical composition of the atmosphere. This technique has been used to detect water vapor, sodium, potassium, helium, and even clouds and hazes on exoplanets.
+
+Emission Spectroscopy: By observing a planet just before and after it is eclipsed by its star, astronomers can isolate the planet's thermal emission. The shape of the emission spectrum reveals the planet's temperature structure and atmospheric composition. Hot Jupiters are the easiest targets for emission spectroscopy due to their high temperatures and large sizes.
+
+Common Atmospheric Constituents:
+- Hydrogen (H) and Helium (He): Dominant in gas giant atmospheres, similar to Jupiter and Saturn.
+- Water (H2O): Detected in the atmospheres of several hot Jupiters and sub-Neptunes. A key molecule for habitability assessment.
+- Carbon Dioxide (CO2): A greenhouse gas detected by JWST in the atmosphere of WASP-39b, marking a milestone in exoplanet atmospheric characterization.
+- Methane (CH4): Expected in cooler gas giants. Its detection alongside oxygen could indicate biological processes.
+- Sodium (Na) and Potassium (K): Alkali metals detected in hot Jupiter atmospheres, producing broad absorption features in visible light.
+- Titanium Oxide (TiO) and Vanadium Oxide (VO): Found in the hottest exoplanets (ultra-hot Jupiters), these molecules create temperature inversions in the upper atmosphere.
+
+Clouds and Hazes: Many exoplanets show muted or flat transmission spectra, indicating the presence of high-altitude clouds or photochemical hazes that block the view of deeper atmospheric layers. These aerosols can be composed of silicates, iron, magnesium silicate minerals, or photochemical hydrocarbons, depending on the planet's temperature.
+
+Atmospheric Escape: Hot exoplanets close to their stars can lose their atmospheres over time through hydrodynamic escape, where intense stellar radiation heats the upper atmosphere, causing it to expand and flow outward into space. This process has been observed in real-time via the detection of extended hydrogen and helium envelopes around some hot Jupiters and hot Neptunes.
+
+Temperature Profiles: An exoplanet's equilibrium temperature is determined by the balance between absorbed stellar radiation and emitted thermal radiation. The temperature profile of an atmosphere (how temperature changes with altitude) is influenced by the presence of absorbing species. Temperature inversions (where temperature increases with altitude) are found in ultra-hot Jupiters due to absorption by TiO/VO or other high-altitude absorbers.

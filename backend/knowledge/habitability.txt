@@ -1,0 +1,13 @@
+Exoplanet Habitability and the Habitable Zone
+
+The Habitable Zone (HZ), also known as the Goldilocks Zone, is the region around a star where conditions might allow liquid water to exist on a planet's surface. The boundaries of the habitable zone depend on the star's luminosity and temperature. For Sun-like stars, the HZ extends roughly from 0.95 to 1.67 AU. For cooler M-dwarf stars, the HZ is much closer to the star, sometimes within 0.1 AU.
+
+Factors Affecting Habitability: The presence of liquid water is necessary but not sufficient for life. Other critical factors include atmospheric composition and pressure, planetary magnetic field strength, tidal locking (common for planets in the HZ of M-dwarfs), stellar activity and flares, plate tectonics, and the availability of essential chemical elements.
+
+Earth Similarity Index (ESI): A measure of how physically similar a planet is to Earth, ranging from 0 (no similarity) to 1 (identical to Earth). The ESI considers surface temperature, density, radius, and escape velocity. Notable high-ESI exoplanets include Kepler-442b (ESI ~0.84), TRAPPIST-1e (ESI ~0.85), and Proxima Centauri b (ESI ~0.87).
+
+Atmospheric Biosignatures: Future telescopes like the James Webb Space Telescope (JWST) and the Extremely Large Telescope (ELT) aim to detect biosignatures — chemical indicators of life — in exoplanet atmospheres. Key biosignatures include oxygen (O2), ozone (O3), methane (CH4) in combination with oxygen (indicating biological methane production), water vapor (H2O), and nitrous oxide (N2O).
+
+Types of Potentially Habitable Worlds: Beyond Earth-like rocky planets, habitability may exist on ocean worlds (planets with deep global oceans), sub-Neptunes with thick hydrogen envelopes and potentially liquid water layers beneath, and even some moons of giant planets (analogous to Europa or Enceladus in our solar system).
+
+Tidally Locked Planets: Many exoplanets in the habitable zones of M-dwarf stars may be tidally locked, meaning one hemisphere permanently faces the star while the other is in eternal darkness. Climate models suggest that atmospheric heat transport could still maintain habitable conditions on parts of these worlds, particularly along the terminator line between the day and night sides.

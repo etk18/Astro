@@ -1,0 +1,21 @@
+Stellar Classification and Exoplanets
+
+Stellar Spectral Types: Stars are classified by their surface temperature and spectral characteristics using the Morgan-Keenan (MK) system: O, B, A, F, G, K, M (from hottest to coolest). Each type is further divided into subtypes 0-9. The Sun is a G2V star. Most known exoplanets orbit F, G, K, and M-type stars.
+
+O-type Stars (>30,000 K): Extremely hot, massive, and luminous blue stars. Very rare and short-lived (millions of years). Unlikely to host habitable planets due to intense UV radiation and short stellar lifetimes that may not allow enough time for life to develop.
+
+B-type Stars (10,000-30,000 K): Hot blue-white stars. Like O-type stars, they are massive and relatively short-lived. Few exoplanets have been detected around B-type stars.
+
+A-type Stars (7,500-10,000 K): White to blue-white stars like Sirius and Vega. Moderate lifetimes of about 1-2 billion years. Some debris disks and planetary systems have been imaged around A-type stars, such as the Fomalhaut and Beta Pictoris systems.
+
+F-type Stars (6,000-7,500 K): Yellow-white stars slightly hotter and more luminous than the Sun. Their habitable zones are farther out. Several exoplanets have been found orbiting F-type stars, though stellar activity can be higher than for Sun-like stars.
+
+G-type Stars (5,200-6,000 K): Yellow stars like our Sun. Considered ideal for hosting habitable planets due to their stable luminosity over billions of years, moderate UV output, and long main-sequence lifetimes (~10 billion years). Many notable exoplanet systems orbit G-type stars, including 51 Pegasi (the first confirmed exoplanet around a Sun-like star).
+
+K-type Stars (3,700-5,200 K): Orange dwarfs. Increasingly recognized as potentially more favorable for habitability than G-type stars due to their longer lifetimes (15-30 billion years), lower stellar activity in mature stars, and wider stable habitable zones. Notable K-type host stars include Kepler-442.
+
+M-type Stars (2,400-3,700 K): Red dwarfs. The most common type of star in the galaxy, comprising about 75% of all stars. Their low luminosity places the habitable zone very close to the star (often < 0.1 AU), which means potentially habitable planets may be tidally locked. M-dwarfs can exhibit strong flare activity, especially when young, which may strip planetary atmospheres. However, their extremely long lifetimes (trillions of years) provide vast timescales for potential biological evolution. Famous M-dwarf planetary systems include TRAPPIST-1 (seven Earth-sized planets) and Proxima Centauri (the nearest star system with a potentially habitable exoplanet).
+
+Stellar Metallicity: Stars with higher metallicity (abundance of elements heavier than helium) are more likely to host giant planets. This is known as the planet-metallicity correlation. The formation of rocky planets appears less dependent on stellar metallicity.
+
+Binary and Multiple Star Systems: A significant fraction of stars exist in binary or multiple star systems. Planets can orbit one star in such a system (S-type orbit) or orbit the entire binary pair (P-type or circumbinary orbit). The Kepler mission discovered several circumbinary planets, popularly known as "Tatooine" planets.

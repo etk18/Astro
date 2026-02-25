@@ -1,0 +1,19 @@
+Exoplanet Types and Classification
+
+Hot Jupiters: Gas giant exoplanets with masses comparable to or exceeding Jupiter's, orbiting extremely close to their host stars (orbital periods of a few days). Their equilibrium temperatures can exceed 1,000-3,000 K. Examples include 51 Pegasi b (the first discovered), WASP-121b, and HD 209458b. Hot Jupiters are believed to have formed farther from their stars and migrated inward through gravitational interactions with the protoplanetary disk or other planets.
+
+Warm Jupiters: Gas giants with orbital periods between about 10 and 200 days. They occupy a transitional regime between hot Jupiters and cold Jupiters (like our own Jupiter). Their formation and migration histories are still debated.
+
+Super-Earths: Rocky or icy exoplanets with masses between about 1 and 10 Earth masses and radii between 1 and 1.75 Earth radii. They have no analogue in our Solar System. Super-Earths may have thick atmospheres, deep oceans, or be entirely rocky. Notable examples include LHS 1140b, Kepler-442b, and some TRAPPIST-1 planets.
+
+Mini-Neptunes (Sub-Neptunes): Planets with radii between about 1.75 and 3.5 Earth radii. They likely possess thick hydrogen-helium envelopes surrounding rocky or icy cores. Some may have liquid water layers beneath their gaseous envelopes. The boundary between super-Earths and mini-Neptunes is called the "radius valley" or "Fulton gap," observed at approximately 1.5-2.0 Earth radii, suggesting different formation or evolutionary pathways.
+
+Ice Giants: Planets similar to Uranus and Neptune, with masses 10-20 times Earth's mass. Their interiors are dominated by heavier elements like water, methane, and ammonia ices. Relatively few ice giant analogs have been confirmed among exoplanets due to detection biases favoring closer-in and more massive planets.
+
+Lava Worlds: Rocky exoplanets orbiting so close to their stars that their surfaces are partially or fully molten. The dayside surface temperature can exceed 2,000 K, hot enough to melt rock. Examples include 55 Cancri e and CoRoT-7b. These worlds may have magma oceans and thin rock-vapor atmospheres composed of silicates and metals.
+
+Ocean Worlds: Exoplanets hypothesized to have surfaces entirely covered by deep global oceans, possibly hundreds of kilometers deep. If the water layer is thick enough, high-pressure ice phases (ice VI, ice VII) may form at the bottom of the ocean, separating the liquid water from the rocky mantle below.
+
+Free-Floating Planets (Rogue Planets): Planets that do not orbit any star, instead wandering through interstellar space. They are thought to have been ejected from their birth systems through gravitational interactions. Microlensing surveys suggest they may be very common in the galaxy.
+
+Circumbinary Planets: Planets orbiting two stars simultaneously. The Kepler mission discovered about a dozen such planets. Their orbits must be far enough from the binary pair to be stable over long timescales.

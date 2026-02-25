@@ -1,0 +1,13 @@
+Exoplanet Detection Methods
+
+Transit Method: The most prolific exoplanet detection technique. When a planet passes in front of its host star (transits), it blocks a small fraction of the star's light. The Kepler Space Telescope discovered thousands of exoplanets using this method. The depth of the light curve dip reveals the planet's radius relative to the star. The transit method is most effective for planets with short orbital periods and those orbiting smaller stars, where the planet-to-star size ratio is larger.
+
+Radial Velocity (Doppler Spectroscopy): As a planet orbits its star, both bodies orbit their common center of mass. This causes the star to wobble slightly, which can be detected as periodic shifts in the star's spectral lines. The amplitude of the radial velocity signal is proportional to the planet's mass and inversely proportional to the orbital distance. This method preferentially detects massive planets close to their stars ("hot Jupiters").
+
+Direct Imaging: Capturing actual photographs of exoplanets by blocking the overwhelming starlight using coronagraphs or starshades. This method works best for young, massive planets far from their stars, as they are still glowing from the heat of their formation. Notable directly imaged systems include HR 8799 and Beta Pictoris.
+
+Gravitational Microlensing: When a foreground star with a planet passes in front of a more distant background star, the gravitational field of the foreground system acts as a lens, magnifying the background star's light. A planet around the lensing star creates a brief, sharp spike in the light curve. This method can detect planets at great distances and is sensitive to planets of all masses, including free-floating planets.
+
+Astrometry: Precisely measuring a star's position on the sky over time to detect the tiny wobble caused by an orbiting planet. The Gaia space mission is expected to discover thousands of exoplanets using this technique. Astrometry is complementary to radial velocity, as it measures the full 3D motion of the star.
+
+Transit Timing Variations (TTV): In multi-planet systems, the gravitational interactions between planets cause deviations from strictly periodic transits. By analyzing these timing variations, astronomers can infer the presence, masses, and orbital parameters of additional planets in the system, even if those planets do not transit.
